@@ -1,3 +1,3 @@
 import Home from './Home'
-
-export { Home } 
+import Navbar from './Navbar'
+export { Home, Navbar } 

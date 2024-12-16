@@ -38,7 +38,7 @@ const Home = () => {
     },[])
 
     return (
-        <div className='mt-10 p-6 m-4 flex justify-center items-center flex-col'>
+        <div className='mt-20 p-6 m-4 flex justify-center items-center flex-col'>
             <Hero />
             <div className='w-4/5 mt-8'>
                 <div className='flex flex-row justify-between'>
